@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+  <h1>Resume</h1>
+  <h2>Aangi</h2>
+  <hr/>
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Drawing</li>
+    <li>Dancing</li>
+    <li>Design</li>
+    <li>Web Development</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+    <li>UI/UX Design with Figma</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <li>Nelson High School</li>
+    <li>Silver Oak University</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>Fresher</li>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Book Club</li>
+    <li>Dancing Club</li>
+    <li>Swiming Club</li>
+  </ul>
+</body>
+</html>
